@@ -1,0 +1,30 @@
+.body{
+    background-color: yellowgreen;
+}
+
+.inside{
+    padding:20px;
+    border:5px solid rgb(28, 112, 237);
+    background-color: blueviolet;
+    margin-left:60px;
+    
+
+}
+* {
+    color: white;
+}
+
+.body, .inside, .img{
+    display: inline-block;
+    
+}
+.align{
+
+    display:inline-block;
+    width: 37%;
+    vertical-align: top;
+    
+}
+
+
+
