@@ -1,0 +1,17 @@
+.front{
+    background-color: aquamarine;
+    width:550px;
+    height:600px;
+    border:5px solid goldenrod;
+    margin-left: 200px;
+}
+
+.list{
+    margin-left:20px;
+    
+}
+.img{
+
+    margin-left:20px;
+    border:5px solid black;
+}
