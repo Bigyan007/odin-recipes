@@ -6,8 +6,8 @@
 }
 .bdy{
     background-color: red;
-    width: 500px;
+    width: 800px;
     border:5px solid blue;
     display:inline-block;
-    margin-left: 250px;
+    margin-left: 100px;
 }
