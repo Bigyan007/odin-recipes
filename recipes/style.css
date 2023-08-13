@@ -1,12 +1,14 @@
 .body{
     background-color: yellowgreen;
+    display: block;
+    margin: 12px;
 }
 
 .inside{
     padding:20px;
     border:5px solid rgb(28, 112, 237);
     background-color: blueviolet;
-    margin:10px 10px 10px 10px;
+    
     
 
 }
