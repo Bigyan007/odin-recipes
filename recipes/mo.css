@@ -1,13 +1,14 @@
 .im{
     border:3px solid black;
-    display: inline-block;
-    height:323px;
+    display:inline-block;
+    height: 323px;
     margin:69px;
 }
 .bdy{
     background-color: red;
-    width: 800px;
+    width: 700px;
     border:5px solid blue;
     display:inline-block;
-    margin-left: 100px;
+    margin: 20px;
+
 }
