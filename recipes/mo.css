@@ -3,6 +3,7 @@
     display:inline-block;
     height: 323px;
     margin:69px;
+
 }
 .bdy{
     background-color: red;
@@ -10,5 +11,6 @@
     border:5px solid blue;
     display:inline-block;
     margin: 20px;
+    padding:10px;
 
 }
